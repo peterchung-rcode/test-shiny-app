@@ -14,7 +14,7 @@ library(quantmod)
 options("getSymbol.warning4.0"=FALSE)
 options("getSymbol.auto.assign"=FALSE)
 
-files <- list.files(path = "data",pattern = "world-resitlist",recursive = T,full.names = T)
+files <- list.files(path = "./",pattern = "world-resitlist",recursive = T,full.names = T)
 sheets <- excel_sheets(files)
 # rl <- lapply(sheets, function(x) read_excel(files, sheet = x))
 
