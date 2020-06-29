@@ -1,0 +1,27 @@
+Symbol,Name,Category,Index,Expense
+TLT,iShares 20+ Year Treasury Bond ETF,Government Bonds,Barclays Capital U.S. 20+ Year Treasury Bond Index,0.15%
+TLH,iShares 10-20 Year Treasury Bond ETF,Government Bonds,Barclays Capital U.S. 10-20 Year Treasury Bond Index,0.15%
+GOVT,iShares U.S. Treasury Bond ETF,Government Bonds,Barclays Capital U.S. Treasury Bond Index,0.15%
+AGG,iShares Core U.S. Aggregate Bond ETF,Total Bond Market,Barclays Capital U.S. Aggregate Bond Index,0.05%
+VGSH,Vanguard Short-Term Treasury ETF,Government Bonds,Barclays U.S. 1-3 Year Government Float Adjusted Index,0.05%
+SHY,iShares 1-3 Year Treasury Bond ETF,Government Bonds,Barclays Capital U.S. 1-3 Year Treasury Bond Index,0.15%
+BSV,Vanguard Short-Term Bond ETF,Total Bond Market,Barclays U.S. 1-5 Year Government/Credit Float Adjusted Index,0.07%
+VCSH,Vanguard Short-Term Corporate Bond ETF,Corporate Bonds,Barclays Capital U.S. 1-5 Year Corporate Index,0.05%
+BND,Vanguard Total Bond Market ETF,Total Bond Market,Barclays Capital U.S. Aggregate Bond Index,0.04%
+BIV,Vanguard Intermediate-Term Bond ETF,Total Bond Market,Barclays U.S. 5,0.07%
+VGIT,Vanguard Intermediate-Term Treasury ETF,Government Bonds,Barclays U.S. 3-10 Year Government Float Adjusted Index,0.05%
+IEI,iShares 3-7 Year Treasury Bond ETF,Government Bonds,Barclays Capital U.S. 3-7 Year Treasury Bond Index,0.15%
+IEF,iShares 7-10 Year Treasury Bond ETF,Government Bonds,Barclays Capital U.S. 7-10 Year Treasury Bond Index,0.15%
+IUSB,iShares Core Total USD Bond Market ETF,Total Bond Market,Barclays U.S. Universal Index,0.06%
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Government Bonds,Barclays Capital U.S. 3-10 Year Treasury Bond Index,0.05%
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Corporate Bonds,iBoxx $ Liquid Investment Grade Index,0.15%
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Corporate Bonds,Barclays U.S. 5-10 Year Corp Index,0.05%
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Inflation-Protected Bonds,Barclays Capital U.S. Treasury Inflation-Protected Securities (TIPS) 0-5 Years Index (Series-L),0.05%
+SCHP,Schwab U.S. TIPS ETF,Inflation-Protected Bonds,Barclays Capital U.S. Treasury Inflation Protected Securities (TIPS) Index (Series-L),0.05%
+TIP,iShares TIPS Bond ETF,Inflation-Protected Bonds,Barclays Capital U.S. Treasury Inflation Protected Securities (TIPS) Index (Series-L),0.19%
+BNDX,Vanguard Total International Bond ETF,Total Bond Market,Barclays Global Aggregate ex-USD Float-Adjusted Index (Hedged),0.09%
+WIP,SPDR FTSE International Government Inflation-Protected Bond ETF,Inflation-Protected Bonds,DB Global Government ex-US Inflation-Linked Bond Capped Index,0.50%
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Emerging Markets Bonds,JPMorgan EMBI Global Core Index,0.39%
+VWOB,Vanguard Emerging Markets Government Bond ETF,Emerging Markets Bonds,Barclays USD Emerging Markets Government RIC Capped Index,0.30%
+JNK,SPDR Barclays High Yield Bond ETF,High Yield Bonds,Barclays Capital High Yield Very Liquid Index,0.40%
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,High Yield Bonds,iBoxx $ Liquid High Yield Index,0.49%

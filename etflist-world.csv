@@ -1,0 +1,18 @@
+Symbol,Name,Category,Index,Expense,Type
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Corporate Bonds,iBoxx $ Liquid Investment Grade Index,0.15%,Corporate Bonds
+EEM,iShares MSCI Emerging Markets ETF,Emerging Markets Equities,MSCI Emerging Markets Index,0.68%,Emerging Markets Equities
+VWO,Vanguard FTSE Emerging Markets ETF,Emerging Markets Equities,FTSE Emerging Index,0.12%,Emerging Markets Equities
+CWI,SPDR MSCI ACWI ex-US ETF,Foreign Large Cap Equities,MSCI All Country World ex-U.S. Index ,0.30%,Ex-US Equities
+VEU,Vanguard FTSE All-World ex-US ETF,Foreign Large Cap Equities,FTSE All-World ex US Index,0.09%,Ex-US Equities
+EFA,iShares MSCI EAFE ETF,Foreign Large Cap Equities,MSCI EAFE Index,0.32%,Foreign Equities
+VEA,Vanguard FTSE Developed Markets ETF,Foreign Large Cap Equities,MSCI EAFE Index,0.05%,Foreign Equities
+BWX,SPDR Barclays International Treasury Bond,International Government Bonds,Barclays Capital Global Treasury Ex-US Capped Index,0.35%,International Government Bonds
+IGOV,iShares International Treasury Bond ETF,International Government Bonds,S&P/Citigroup International Treasury Bond Index Ex-US,0.35%,International Government Bonds
+AGG,iShares Core U.S. Aggregate Bond ETF,Total Bond Market,Barclays Capital U.S. Aggregate Bond Index,0.05%,US Bonds
+BND,Vanguard Total Bond Market ETF,Total Bond Market,Barclays Capital U.S. Aggregate Bond Index,0.04%,US Bonds
+SHY,iShares 1-3 Year Treasury Bond ETF,Government Bonds,Barclays Capital U.S. 1-3 Year Treasury Bond Index,0.15%,US Bonds
+IWV,iShares Russell 3000 ETF,Large Cap Growth Equities,Russell 3000 Index,0.20%,US Equities
+SPY,SPDR S&P 500 ETF,Large Cap Growth Equities,S&P 500 Index,0.09%,US Equities
+VTI,Vanguard Total Stock Market ETF,Large Cap Growth Equities,CRSP US Total Market Index,0.03%,US Equities
+ACWI,iShares MSCI ACWI ETF,Large Cap Growth Equities,MSCI All Country World Index,0.32%,World Equities
+VT,Vanguard Total World Stock ETF,Large Cap Growth Equities,FTSE Global All Cap Index,0.09%,World Equities

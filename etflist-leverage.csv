@@ -1,0 +1,26 @@
+Symbol,Name,Category,Index,Expense
+HEZU,iShares Currency Hedged MSCI Eurozone ETF,Europe Equities,MSCI EMU 100% USD Hedged Index,0.52%
+HEWG,iShares Currency Hedged MSCI Germany ETF,Europe Equities,MSCI Germany 100% Hedged to USD Index,0.53%
+HEDJ,WisdomTree Europe Hedged Equity Fund,Europe Equities,WisdomTree Europe Hedged Equity Index,0.58%
+HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,Emerging Markets Equities,MSCI Emerging Markets 100% USD Hedged Index,0.68%
+DXJ,WisdomTree Japan Hedged Equity Fund,Japan Equities,WisdomTree Japan Hedged Equity Index,0.48%
+TQQQ,ProShares UltraPro QQQ,Leveraged Equities,NASDAQ-100 Index (300%),0.95%
+QLD,ProShares Ultra QQQ,Leveraged Equities,NASDAQ-100 Index (200%),0.95%
+UCO,ProShares Ultra Bloomberg Crude Oil,Leveraged Commodities,Dow Jones-UBS Crude Oil Sub-Index (200%),0.95%
+UYG,ProShares Ultra Financials,Leveraged Equities,Dow Jones U.S. Financials Index (200%),0.95%
+UWT,VelocityShares 3x Long Crude Oil ETN,Leveraged Commodities,S&P GSCI Crude Oil Index ER,1.50%
+SOXL,Direxion Daily Semiconductor Bull 3x Shares,Leveraged Equities,PHLX Semiconductor Index (300%),0.99%
+BIB,ProShares Ultra Nasdaq Biotechnology,Leveraged Equities,NASDAQ Biotechnology Index (200%),0.95%
+DDM,ProShares Ultra Dow30,Leveraged Equities,Dow Jones Industrial Average Index (200%),0.95%
+TZA,Direxion Daily Small Cap Bear 3X Shares,Leveraged Equities,Russell 2000 Index (-300%),1.11%
+SPXS,Direxion Daily S&P 500 Bear 3X Shares,Leveraged Equities,S&P 500 Index (-300%),1.08%
+FAZ,Direxion Daily Financial Bear 3X Shares,Leveraged Equities,Russell 1000 Financial Services Index (-300%),1.07%
+EDZ,Direxion Daily Emerging Markets Bear 3X Shares,Leveraged Equities,MSCI Emerging Markets Index (-300%),1.09%
+SH,ProShares Short S&P 500,Inverse Equities,S&P 500 Index (-100%),0.89%
+DOG,ProShares Short Dow 30,Inverse Equities,Dow Jones Industrial Average Index (-100%),0.95%
+RWM,ProShares Short Russell 2000,Inverse Equities,Russell 2000 Index (-100%),0.95%
+SDS,ProShares UltraShort S&P 500,Leveraged Equities,S&P 500 Index (-200%),0.89%
+SQQQ,ProShares UltraPro Short QQQ,Leveraged Equities,NASDAQ-100 Index (-300%),0.95%
+DUST,Direxion Daily Gold Miners Bear 3X Shares,Leveraged Equities,NYSE Arca Gold Miners Index (-300%),1.05%
+DXD,ProShares UltraShort Dow 30,Leveraged Equities,Dow Jones Industrial Average Index (-200%),0.95%
+QYLD,Global X NASDAQ 100 Covered Call ETF,U.S. Large Cap Equities,CBOE NASDAQ-100 Buy/Write Index,0.60%

@@ -1,0 +1,78 @@
+Symbol,Name,Category,Index,Expense
+ASEA,Global X FTSE ASEAN 40 ETF,Asia Pacific Equities,FTSE/ASEAN 40 Index,0.65%
+EIDO,iShares MSCI Indonesia ETF,Asia Pacific Equities,MSCI Indonesia Investable Market Index,0.59%
+EPHE,iShares MSCI Philippines ETF,Asia Pacific Equities,MSCI Philippines Investable Market Index,0.59%
+EPI,WisdomTree India Earnings Fund,Asia Pacific Equities,WisdomTree India Earnings Index,0.85%
+EWA,iShares MSCI-Australia ETF,Asia Pacific Equities,MSCI Australia Index,0.50%
+EWH,iShares MSCI Hong Kong ETF,Asia Pacific Equities,MSCI Hong Kong Index,0.49%
+EWM,iShares MSCI Malaysia ETF,Asia Pacific Equities,MSCI Malaysia Index,0.49%
+EWS,iShares MSCI Singapore ETF,Asia Pacific Equities,MSCI Singapore Index,0.50%
+EWT,iShares MSCI Taiwan ETF,Asia Pacific Equities,MSCI Taiwan Index,0.59%
+EWY,iShares MSCI South Korea ETF,Asia Pacific Equities,MSCI Korea Index,0.59%
+INCO,Columbia India Consumer ETF,Asia Pacific Equities,Indxx India Consumer Index,0.75%
+INDA,iShares MSCI India ETF,Asia Pacific Equities,MSCI India Index,0.69%
+INDY,iShares India 50 ETF,Asia Pacific Equities,S&P CNX Nifty Index,0.94%
+IPAC,iShares Core MSCI Pacific ETF,Asia Pacific Equities,MSCI Pacific Investable Market Index,0.09%
+PIN,Invesco India ETF,Asia Pacific Equities,Indus India Index,0.82%
+SCIF,VanEck Vectors India Small-Cap Index ETF,Asia Pacific Equities,MVIS India Small-Cap Index,0.83%
+SMIN,iShares MSCI India Small-Cap ETF,Asia Pacific Equities,MSCI India Small Cap Index,0.76%
+THD,iShares MSCI Thailand ETF,Asia Pacific Equities,MSCI Thailand Investable Market Index,0.59%
+VNM,VanEck Vectors Vietnam ETF,Asia Pacific Equities,MVIS Vietnam Index,0.68%
+VPL,Vanguard FTSE Pacific ETF,Asia Pacific Equities,FTSE Developed Asia Pacific Index,0.09%
+ASHR,Xtrackers Harvest CSI 300 China A-Shares Fund,China Equities,CSI 300 Index,0.65%
+ASHS,Xtrackers Harvest CSI 500 China-A Shares Small Cap Fund,China Equities,CSI 500 Index,0.65%
+CNXT,VanEck Vectors ChinaAMC SME-ChiNext ETF,China Equities,SME-ChiNext 100 Index,0.65%
+FXI,iShares China Large-Cap ETF,China Equities,FTSE China 25 Index,0.74%
+GXC,SPDR S&P China ETF,China Equities,S&P China BMI Index,0.59%
+KWEB,KraneShares CSI China Internet ETF,China Equities,CSI China Overseas Internet Index,0.76%
+MCHI,iShares MSCI China ETF,China Equities,MSCI China Index,0.59%
+EEM,iShares MSCI Emerging Markets ETF,Emerging Markets Equities,MSCI Emerging Markets Index,0.68%
+ERUS,iShares MSCI Russia ETF,Emerging Markets Equities,MSCI Russia 25/50 Index,0.59%
+FM,iShares MSCI Frontier 100 ETF,Emerging Markets Equities,MSCI Frontier Markets 100 Index,0.79%
+IEMG,iShares Core MSCI Emerging Markets ETF,Emerging Markets Equities,MSCI Emerging Markets Investable Market Index,0.14%
+RSX,VanEck Vectors Russia ETF,Emerging Markets Equities,MVIS Russia Index,0.65%
+SCHE,Schwab Emerging Markets Equity ETF,Emerging Markets Equities,FTSE All Emerging Index,0.13%
+TUR,iShares MSCI Turkey ETF,Emerging Markets Equities,MSCI Turkey Investable Market Index,0.59%
+VWO,Vanguard FTSE Emerging Markets ETF,Emerging Markets Equities,FTSE Emerging Index,0.12%
+EPOL,iShares MSCI Poland ETF,Europe Equities,MSCI Poland Investable Market Index,0.61%
+EWD,iShares MSCI Sweden ETF,Europe Equities,MSCI Sweden Index,0.55%
+EWG,iShares MSCI Germany ETF,Europe Equities,MSCI Germany Index,0.49%
+EWI,iShares MSCI Italy ETF,Europe Equities,MSCI Italy Index,0.49%
+EWL,iShares MSCI Switzerland ETF,Europe Equities,MSCI Switzerland Index,0.50%
+EWO,iShares MSCI Austria ETF,Europe Equities,MSCI Austria Investable Market Index,0.49%
+EWP,iShares MSCI Spain ETF,Europe Equities,MSCI Spain Index,0.50%
+EWQ,iShares MSCI France ETF,Europe Equities,MSCI France Index,0.50%
+EWU,iShares MSCI United Kingdom ETF,Europe Equities,MSCI United Kingdom Index,0.50%
+EZU,iShares MSCI EMU ETF,Europe Equities,MSCI EMU Index,0.49%
+IEUR,iShares Core MSCI Europe ETF,Europe Equities,MSCI Europe Investable Market Index,0.09%
+IEV,iShares Europe ETF,Europe Equities,S&P Europe 350 Index,0.59%
+VGK,Vanguard FTSE Europe ETF,Europe Equities,FTSE Developed Europe Index,0.09%
+EUFN,iShares MSCI Europe Financials ETF,Financials Equities,MSCI Europe Financials Index,0.48%
+CWI,SPDR MSCI ACWI ex-US ETF,Foreign Large Cap Equities,MSCI All Country World ex-U.S. Index ,0.30%
+ECH,iShares MSCI Chile ETF,Foreign Large Cap Equities,MSCI Chile Investable Market Index,0.59%
+EFA,iShares MSCI EAFE ETF,Foreign Large Cap Equities,MSCI EAFE Index,0.32%
+EIS,iShares MSCI Israel ETF,Foreign Large Cap Equities,MSCI Israel Capped Investable Market Index,0.59%
+IEFA,iShares Core MSCI EAFE ETF,Foreign Large Cap Equities,MSCI EAFE Investable Market Index,0.07%
+IXUS,iShares Core MSCI Total International Stock ETF,Foreign Large Cap Equities,MSCI ACWI ex USA Investable Market Index,0.09%
+SCHF,Schwab International Equity ETF,Foreign Large Cap Equities,FTSE Developed ex U.S. Index,0.06%
+VEA,Vanguard FTSE Developed Markets ETF,Foreign Large Cap Equities,MSCI EAFE Index,0.05%
+VEU,Vanguard FTSE All-World ex-US ETF,Foreign Large Cap Equities,FTSE All-World ex US Index,0.09%
+VXUS,Vanguard Total International Stock ETF,Foreign Large Cap Equities,MSCI All Country World ex USA Investable Market Index,0.09%
+DFJ,WisdomTree Japan SmallCap Dividend,Japan Equities,WisdomTree Japan SmallCap Dividend Index,0.58%
+EWJ,iShares MSCI Japan ETF,Japan Equities,MSCI Japan Index,0.49%
+ACWI,iShares MSCI ACWI ETF,Large Cap Growth Equities,MSCI All Country World Index,0.32%
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,Large Cap Growth Equities,S&P Composite 1500 Index,0.03%
+IWV,iShares Russell 3000 ETF,Large Cap Growth Equities,Russell 3000 Index,0.20%
+SCHB,Schwab U.S. Broad Market ETF,Large Cap Growth Equities,Dow Jones U.S. Broad Stock Market Total Return Index,0.03%
+URTH,iShares MSCI World ETF,Large Cap Growth Equities,MSCI World Index,0.24%
+VT,Vanguard Total World Stock ETF,Large Cap Growth Equities,FTSE Global All Cap Index,0.09%
+IVV,iShares Core S&P 500 ETF,Large Cap Growth Equities,S&P 500 Index,0.04%
+VOO,Vanguard S&P 500 ETF,Large Cap Growth Equities,S&P 500 Index,0.03%
+SPY,SPDR S&P 500 ETF,Large Cap Growth Equities,S&P 500 Index,0.09%
+QQQ,Invesco QQQ,Large Cap Growth Equities,NASDAQ-100 Index,0.20%
+VTI,Vanguard Total Stock Market ETF,Large Cap Growth Equities,CRSP US Total Market Index,0.03%
+ARGT,Global X MSCI Argentina ETF,Latin America Equities,MSCI All Argentina 25/50 Index,0.59%
+EWW,iShares MSCI Mexico ETF,Latin America Equities,MSCI Mexico IMI 25/50 Index,0.49%
+EWZ,iShares MSCI Brazil ETF,Latin America Equities,MSCI Brazil 25/50 Index,0.59%
+EWZS,iShares MSCI Brazil Small-Cap ETF,Latin America Equities,MSCI Brazil Small Cap Index,0.59%
+EPU,iShares MSCI Peru ETF,Mid Cap Blend Equities,MSCI All Peru Capped Index,0.59%
